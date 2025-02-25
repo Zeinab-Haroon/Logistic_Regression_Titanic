@@ -1,5 +1,3 @@
 # Logistic_Regression_Titanic
 
-Titanic Dataset
-
-- Logistic Regression task [Link](https://www.kaggle.com/c/titanic/data)
+Predict survival on the Titanic Dataset using Logistic Regression. Kaggle Task: [Link](https://www.kaggle.com/c/titanic/data).
